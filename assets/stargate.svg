@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-420 -162 840 360" width="840" height="360" role="img" aria-label="A year of contributions by phoebus-84 as a slit scan: 2,433 contributions, one week per slit.">
+<title>A year of contributions by phoebus-84 as a slit scan: 2,433 contributions, one week per slit.</title>
+<style>
+.c0{fill:#110c26}.c1{fill:#2a1a6e}.c2{fill:#4a1fa8}.c3{fill:#8a1fb0}.c4{fill:#d81f8f}.c5{fill:#ff4d5a}.c6{fill:#ff8a1f}.c7{fill:#ffc24a}.c8{fill:#fff3c4}
+.floor{opacity:.22}
+.now{fill:#fff}
+.fly{animation:fly 12.72s linear infinite}
+@keyframes fly{0%{transform:scale(1.00000)}1.89%{transform:scale(1.07000)}3.77%{transform:scale(1.14490)}5.66%{transform:scale(1.22504)}7.55%{transform:scale(1.31080)}9.43%{transform:scale(1.40255)}11.32%{transform:scale(1.50073)}13.21%{transform:scale(1.60578)}15.09%{transform:scale(1.71819)}16.98%{transform:scale(1.83846)}18.87%{transform:scale(1.96715)}20.75%{transform:scale(2.10485)}22.64%{transform:scale(2.25219)}24.53%{transform:scale(2.40985)}26.42%{transform:scale(2.57853)}28.3%{transform:scale(2.75903)}30.19%{transform:scale(2.95216)}32.08%{transform:scale(3.15882)}33.96%{transform:scale(3.37993)}35.85%{transform:scale(3.61653)}37.74%{transform:scale(3.86968)}39.62%{transform:scale(4.14056)}41.51%{transform:scale(4.43040)}43.4%{transform:scale(4.74053)}45.28%{transform:scale(5.07237)}47.17%{transform:scale(5.42743)}49.06%{transform:scale(5.80735)}50.94%{transform:scale(6.21387)}52.83%{transform:scale(6.64884)}54.72%{transform:scale(7.11426)}56.6%{transform:scale(7.61226)}58.49%{transform:scale(8.14511)}60.38%{transform:scale(8.71527)}62.26%{transform:scale(9.32534)}64.15%{transform:scale(9.97811)}66.04%{transform:scale(10.6766)}67.92%{transform:scale(11.4239)}69.81%{transform:scale(12.2236)}71.7%{transform:scale(13.0793)}73.58%{transform:scale(13.9948)}75.47%{transform:scale(14.9745)}77.36%{transform:scale(16.0227)}79.25%{transform:scale(17.1443)}81.13%{transform:scale(18.3444)}83.02%{transform:scale(19.6285)}84.91%{transform:scale(21.0025)}86.79%{transform:scale(22.4726)}88.68%{transform:scale(24.0457)}90.57%{transform:scale(25.7289)}92.45%{transform:scale(27.5299)}94.34%{transform:scale(29.4570)}96.23%{transform:scale(31.5190)}98.11%{transform:scale(33.7253)}100%{transform:scale(36.0861)}}
+@media (prefers-reduced-motion:reduce){.fly{animation:none}}
+text{font:500 12.5px Futura,"Century Gothic","Avenir Next","Gill Sans",sans-serif;fill:#a9a294;letter-spacing:.04em}
+</style>
+<defs>
+<path id="d0" d="M462 -483.57V-349.57L434.71 -328.92V-455Z"/>
+<path id="d1" d="M462 -344.71V-210.72L434.71 -198.27V-324.35Z"/>
+<path id="d2" d="M462 -205.86V-71.86L434.71 -67.61V-193.69Z"/>
+<path id="d3" d="M462 -67V67L434.71 63.04V-63.04Z"/>
+<path id="d4" d="M462 71.86V205.86L434.71 193.69V67.61Z"/>
+<path id="d5" d="M462 210.72V344.71L434.71 324.35V198.27Z"/>
+<path id="d6" d="M462 349.57V483.57L434.71 455V328.92Z"/>
+<path id="fl" d="M-462 486H462L434.71 457.29H-434.71Z"/>
+<path id="now" d="M462 -486V486L456.41 480.12V-480.12Z"/>
+<clipPath id="frame"><rect x="-420" y="-162" width="840" height="324"/></clipPath>
+<radialGradient id="haze"><stop offset="0" stop-color="#000"/><stop offset=".45" stop-color="#000" stop-opacity=".85"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="-420" y="-162" width="840" height="360" fill="#000"/>
+<g clip-path="url(#frame)">
+<g class="fly">
+<g id="wall">
+<g transform="scale(1.0000)"><use href="#d0" class="c2"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.93458)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c2"/><use href="#d4" class="c2"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.87344)"><use href="#d0" class="c1"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.81630)"><use href="#d0" class="c5"/><use href="#d1" class="c0"/><use href="#d2" class="c6"/><use href="#d3" class="c3"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.76290)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.71299)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.66634)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c1"/><use href="#d5" class="c3"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.62275)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.58201)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c3"/><use href="#d3" class="c1"/><use href="#d4" class="c5"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.54393)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c0"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.50835)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c2"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.47509)"><use href="#d0" class="c0"/><use href="#d1" class="c5"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.44401)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.41496)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c3"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.38782)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.36245)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c1"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.33873)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c2"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.31657)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.29586)"><use href="#d0" class="c0"/><use href="#d1" class="c4"/><use href="#d2" class="c3"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.27651)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.25842)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c5"/><use href="#d4" class="c1"/><use href="#d5" class="c3"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.24151)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c2"/></g>
+<g transform="scale(0.22571)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c1"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.21095)"><use href="#d0" class="c1"/><use href="#d1" class="c1"/><use href="#d2" class="c0"/><use href="#d3" class="c2"/><use href="#d4" class="c1"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.19715)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c0"/><use href="#d4" class="c3"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.18425)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c4"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.17220)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.16093)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c1"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.15040)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c1"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.14056)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c0"/><use href="#d4" class="c3"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.13137)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c1"/><use href="#d3" class="c4"/><use href="#d4" class="c3"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.12277)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c4"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.11474)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c4"/><use href="#d4" class="c0"/><use href="#d5" class="c4"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.10723)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c5"/><use href="#d3" class="c7"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.10022)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.093663)"><use href="#d0" class="c0"/><use href="#d1" class="c8"/><use href="#d2" class="c8"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c8"/><use href="#d6" class="c1"/></g>
+<g transform="scale(0.087535)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c5"/><use href="#d3" class="c6"/><use href="#d4" class="c1"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.081809)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c7"/><use href="#d6" class="c6"/></g>
+<g transform="scale(0.076457)"><use href="#d0" class="c3"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.071455)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c2"/><use href="#d6" class="c4"/></g>
+<g transform="scale(0.066780)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c4"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.062412)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c3"/><use href="#d3" class="c3"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.058329)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c4"/><use href="#d3" class="c5"/><use href="#d4" class="c2"/><use href="#d5" class="c1"/><use href="#d6" class="c5"/></g>
+<g transform="scale(0.054513)"><use href="#d0" class="c5"/><use href="#d1" class="c5"/><use href="#d2" class="c4"/><use href="#d3" class="c0"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.050946)"><use href="#d0" class="c1"/><use href="#d1" class="c5"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c3"/><use href="#d6" class="c3"/></g>
+<g transform="scale(0.047613)"><use href="#d0" class="c0"/><use href="#d1" class="c7"/><use href="#d2" class="c5"/><use href="#d3" class="c3"/><use href="#d4" class="c6"/><use href="#d5" class="c6"/><use href="#d6" class="c2"/></g>
+<g transform="scale(0.044499)"><use href="#d0" class="c2"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c5"/><use href="#d4" class="c5"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.041587)"><use href="#d0" class="c4"/><use href="#d1" class="c5"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c4"/><use href="#d5" class="c1"/><use href="#d6" class="c1"/></g>
+<g transform="scale(0.038867)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.036324)"><use href="#d0" class="c0"/><use href="#d1" class="c6"/><use href="#d2" class="c3"/><use href="#d3" class="c3"/><use href="#d4" class="c4"/><use href="#d5" class="c1"/><use href="#d6" class="c4"/></g>
+<g transform="scale(0.033948)"><use href="#d0" class="c1"/><use href="#d1" class="c4"/><use href="#d2" class="c3"/><use href="#d3" class="c4"/><use href="#d4" class="c5"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.031727)"><use href="#d0" class="c3"/><use href="#d1" class="c4"/><use href="#d2" class="c7"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c6"/><use href="#d6" class="c1"/></g>
+<g transform="scale(0.029651)"><use href="#d0" class="c0"/><use href="#d1" class="c5"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/></g>
+<g transform="scale(0.027711)"><use href="#d0" class="c2"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/><use href="#now" class="now"/></g>
+<g transform="scale(0.025899)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c2"/><use href="#d4" class="c2"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.024204)"><use href="#d0" class="c1"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.022621)"><use href="#d0" class="c5"/><use href="#d1" class="c0"/><use href="#d2" class="c6"/><use href="#d3" class="c3"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.021141)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.019758)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.018465)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c1"/><use href="#d5" class="c3"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.017257)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.016128)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c3"/><use href="#d3" class="c1"/><use href="#d4" class="c5"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.015073)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c0"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.014087)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c2"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.013166)"><use href="#d0" class="c0"/><use href="#d1" class="c5"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.012304)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.011499)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c3"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.010747)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.010044)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c1"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0093868)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c2"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0087727)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0081988)"><use href="#d0" class="c0"/><use href="#d1" class="c4"/><use href="#d2" class="c3"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0076625)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0071612)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c5"/><use href="#d4" class="c1"/><use href="#d5" class="c3"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0066927)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c2"/></g>
+<g transform="scale(0.0062548)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c1"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0058457)"><use href="#d0" class="c1"/><use href="#d1" class="c1"/><use href="#d2" class="c0"/><use href="#d3" class="c2"/><use href="#d4" class="c1"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0054632)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c0"/><use href="#d4" class="c3"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0051058)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c4"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0047718)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0044596)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c1"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0041679)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c1"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0038952)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c0"/><use href="#d4" class="c3"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0036404)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c1"/><use href="#d3" class="c4"/><use href="#d4" class="c3"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0034022)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c4"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0031796)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c4"/><use href="#d4" class="c0"/><use href="#d5" class="c4"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0029716)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c5"/><use href="#d3" class="c7"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0027772)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0025955)"><use href="#d0" class="c0"/><use href="#d1" class="c8"/><use href="#d2" class="c8"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c8"/><use href="#d6" class="c1"/></g>
+<g transform="scale(0.0024257)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c5"/><use href="#d3" class="c6"/><use href="#d4" class="c1"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0022670)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c2"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c7"/><use href="#d6" class="c6"/></g>
+<g transform="scale(0.0021187)"><use href="#d0" class="c3"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0019801)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c2"/><use href="#d6" class="c4"/></g>
+<g transform="scale(0.0018506)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c4"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0017295)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c3"/><use href="#d3" class="c3"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0016164)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c4"/><use href="#d3" class="c5"/><use href="#d4" class="c2"/><use href="#d5" class="c1"/><use href="#d6" class="c5"/></g>
+<g transform="scale(0.0015106)"><use href="#d0" class="c5"/><use href="#d1" class="c5"/><use href="#d2" class="c4"/><use href="#d3" class="c0"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0014118)"><use href="#d0" class="c1"/><use href="#d1" class="c5"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c3"/><use href="#d6" class="c3"/></g>
+<g transform="scale(0.0013194)"><use href="#d0" class="c0"/><use href="#d1" class="c7"/><use href="#d2" class="c5"/><use href="#d3" class="c3"/><use href="#d4" class="c6"/><use href="#d5" class="c6"/><use href="#d6" class="c2"/></g>
+<g transform="scale(0.0012331)"><use href="#d0" class="c2"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c5"/><use href="#d4" class="c5"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0011525)"><use href="#d0" class="c4"/><use href="#d1" class="c5"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c4"/><use href="#d5" class="c1"/><use href="#d6" class="c1"/></g>
+<g transform="scale(0.0010771)"><use href="#d0" class="c0"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.0010066)"><use href="#d0" class="c0"/><use href="#d1" class="c6"/><use href="#d2" class="c3"/><use href="#d3" class="c3"/><use href="#d4" class="c4"/><use href="#d5" class="c1"/><use href="#d6" class="c4"/></g>
+<g transform="scale(0.00094074)"><use href="#d0" class="c1"/><use href="#d1" class="c4"/><use href="#d2" class="c3"/><use href="#d3" class="c4"/><use href="#d4" class="c5"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00087920)"><use href="#d0" class="c3"/><use href="#d1" class="c4"/><use href="#d2" class="c7"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c6"/><use href="#d6" class="c1"/></g>
+<g transform="scale(0.00082168)"><use href="#d0" class="c0"/><use href="#d1" class="c5"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/></g>
+<g transform="scale(0.00076793)"><use href="#d0" class="c2"/><use href="#d1" class="c2"/><use href="#d2" class="c1"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/><use href="#now" class="now"/></g>
+<g transform="scale(0.00071769)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c2"/><use href="#d4" class="c2"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00067074)"><use href="#d0" class="c1"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00062686)"><use href="#d0" class="c5"/><use href="#d1" class="c0"/><use href="#d2" class="c6"/><use href="#d3" class="c3"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00058585)"><use href="#d0" class="c0"/><use href="#d1" class="c3"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00054752)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00051170)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c1"/><use href="#d4" class="c1"/><use href="#d5" class="c3"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00047823)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c6"/><use href="#d4" class="c7"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00044694)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c3"/><use href="#d3" class="c1"/><use href="#d4" class="c5"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00041770)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c0"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00039037)"><use href="#d0" class="c0"/><use href="#d1" class="c1"/><use href="#d2" class="c1"/><use href="#d3" class="c3"/><use href="#d4" class="c2"/><use href="#d5" class="c2"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00036484)"><use href="#d0" class="c0"/><use href="#d1" class="c5"/><use href="#d2" class="c2"/><use href="#d3" class="c2"/><use href="#d4" class="c4"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00034097)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00031866)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c3"/><use href="#d4" class="c1"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00029782)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00027833)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c1"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00026012)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c3"/><use href="#d3" class="c2"/><use href="#d4" class="c0"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00024311)"><use href="#d0" class="c0"/><use href="#d1" class="c0"/><use href="#d2" class="c0"/><use href="#d3" class="c0"/><use href="#d4" class="c0"/><use href="#d5" class="c1"/><use href="#d6" class="c0"/></g>
+<g transform="scale(0.00022720)"><use href="#d0" class="c0"/><use href="#d1" class="c4"/><use href="#d2" class="c3"/><use href="#d3" class="c1"/><use href="#d4" class="c2"/><use href="#d5" class="c0"/><use href="#d6" class="c0"/></g>
+</g>
+<use href="#wall" transform="scale(-1,1)"/>
+<g class="floor">
+<g id="floor">
+<use href="#fl" transform="scale(1.0000)" class="c2"/>
+<use href="#fl" transform="scale(0.93458)" class="c2"/>
+<use href="#fl" transform="scale(0.87344)" class="c1"/>
+<use href="#fl" transform="scale(0.81630)" class="c6"/>
+<use href="#fl" transform="scale(0.76290)" class="c3"/>
+<use href="#fl" transform="scale(0.71299)" class="c0"/>
+<use href="#fl" transform="scale(0.66634)" class="c3"/>
+<use href="#fl" transform="scale(0.62275)" class="c7"/>
+<use href="#fl" transform="scale(0.58201)" class="c5"/>
+<use href="#fl" transform="scale(0.54393)" class="c3"/>
+<use href="#fl" transform="scale(0.50835)" class="c3"/>
+<use href="#fl" transform="scale(0.47509)" class="c5"/>
+<use href="#fl" transform="scale(0.44401)" class="c1"/>
+<use href="#fl" transform="scale(0.41496)" class="c3"/>
+<use href="#fl" transform="scale(0.38782)" class="c0"/>
+<use href="#fl" transform="scale(0.36245)" class="c1"/>
+<use href="#fl" transform="scale(0.33873)" class="c3"/>
+<use href="#fl" transform="scale(0.31657)" class="c1"/>
+<use href="#fl" transform="scale(0.29586)" class="c4"/>
+<use href="#fl" transform="scale(0.27651)" class="c0"/>
+<use href="#fl" transform="scale(0.25842)" class="c5"/>
+<use href="#fl" transform="scale(0.24151)" class="c2"/>
+<use href="#fl" transform="scale(0.22571)" class="c2"/>
+<use href="#fl" transform="scale(0.21095)" class="c2"/>
+<use href="#fl" transform="scale(0.19715)" class="c3"/>
+<use href="#fl" transform="scale(0.18425)" class="c4"/>
+<use href="#fl" transform="scale(0.17220)" class="c1"/>
+<use href="#fl" transform="scale(0.16093)" class="c2"/>
+<use href="#fl" transform="scale(0.15040)" class="c2"/>
+<use href="#fl" transform="scale(0.14056)" class="c3"/>
+<use href="#fl" transform="scale(0.13137)" class="c4"/>
+<use href="#fl" transform="scale(0.12277)" class="c4"/>
+<use href="#fl" transform="scale(0.11474)" class="c4"/>
+<use href="#fl" transform="scale(0.10723)" class="c7"/>
+<use href="#fl" transform="scale(0.10022)" class="c3"/>
+<use href="#fl" transform="scale(0.093663)" class="c8"/>
+<use href="#fl" transform="scale(0.087535)" class="c6"/>
+<use href="#fl" transform="scale(0.081809)" class="c7"/>
+<use href="#fl" transform="scale(0.076457)" class="c3"/>
+<use href="#fl" transform="scale(0.071455)" class="c4"/>
+<use href="#fl" transform="scale(0.066780)" class="c4"/>
+<use href="#fl" transform="scale(0.062412)" class="c4"/>
+<use href="#fl" transform="scale(0.058329)" class="c5"/>
+<use href="#fl" transform="scale(0.054513)" class="c5"/>
+<use href="#fl" transform="scale(0.050946)" class="c5"/>
+<use href="#fl" transform="scale(0.047613)" class="c7"/>
+<use href="#fl" transform="scale(0.044499)" class="c5"/>
+<use href="#fl" transform="scale(0.041587)" class="c5"/>
+<use href="#fl" transform="scale(0.038867)" class="c3"/>
+<use href="#fl" transform="scale(0.036324)" class="c6"/>
+<use href="#fl" transform="scale(0.033948)" class="c5"/>
+<use href="#fl" transform="scale(0.031727)" class="c7"/>
+<use href="#fl" transform="scale(0.029651)" class="c5"/>
+<use href="#fl" transform="scale(0.027711)" class="c2"/>
+<use href="#fl" transform="scale(0.025899)" class="c2"/>
+<use href="#fl" transform="scale(0.024204)" class="c1"/>
+<use href="#fl" transform="scale(0.022621)" class="c6"/>
+<use href="#fl" transform="scale(0.021141)" class="c3"/>
+<use href="#fl" transform="scale(0.019758)" class="c0"/>
+<use href="#fl" transform="scale(0.018465)" class="c3"/>
+<use href="#fl" transform="scale(0.017257)" class="c7"/>
+<use href="#fl" transform="scale(0.016128)" class="c5"/>
+<use href="#fl" transform="scale(0.015073)" class="c3"/>
+<use href="#fl" transform="scale(0.014087)" class="c3"/>
+<use href="#fl" transform="scale(0.013166)" class="c5"/>
+<use href="#fl" transform="scale(0.012304)" class="c1"/>
+<use href="#fl" transform="scale(0.011499)" class="c3"/>
+<use href="#fl" transform="scale(0.010747)" class="c0"/>
+<use href="#fl" transform="scale(0.010044)" class="c1"/>
+<use href="#fl" transform="scale(0.0093868)" class="c3"/>
+<use href="#fl" transform="scale(0.0087727)" class="c1"/>
+<use href="#fl" transform="scale(0.0081988)" class="c4"/>
+<use href="#fl" transform="scale(0.0076625)" class="c0"/>
+<use href="#fl" transform="scale(0.0071612)" class="c5"/>
+<use href="#fl" transform="scale(0.0066927)" class="c2"/>
+<use href="#fl" transform="scale(0.0062548)" class="c2"/>
+<use href="#fl" transform="scale(0.0058457)" class="c2"/>
+<use href="#fl" transform="scale(0.0054632)" class="c3"/>
+<use href="#fl" transform="scale(0.0051058)" class="c4"/>
+<use href="#fl" transform="scale(0.0047718)" class="c1"/>
+<use href="#fl" transform="scale(0.0044596)" class="c2"/>
+<use href="#fl" transform="scale(0.0041679)" class="c2"/>
+<use href="#fl" transform="scale(0.0038952)" class="c3"/>
+<use href="#fl" transform="scale(0.0036404)" class="c4"/>
+<use href="#fl" transform="scale(0.0034022)" class="c4"/>
+<use href="#fl" transform="scale(0.0031796)" class="c4"/>
+<use href="#fl" transform="scale(0.0029716)" class="c7"/>
+<use href="#fl" transform="scale(0.0027772)" class="c3"/>
+<use href="#fl" transform="scale(0.0025955)" class="c8"/>
+<use href="#fl" transform="scale(0.0024257)" class="c6"/>
+<use href="#fl" transform="scale(0.0022670)" class="c7"/>
+<use href="#fl" transform="scale(0.0021187)" class="c3"/>
+<use href="#fl" transform="scale(0.0019801)" class="c4"/>
+<use href="#fl" transform="scale(0.0018506)" class="c4"/>
+<use href="#fl" transform="scale(0.0017295)" class="c4"/>
+<use href="#fl" transform="scale(0.0016164)" class="c5"/>
+<use href="#fl" transform="scale(0.0015106)" class="c5"/>
+<use href="#fl" transform="scale(0.0014118)" class="c5"/>
+<use href="#fl" transform="scale(0.0013194)" class="c7"/>
+<use href="#fl" transform="scale(0.0012331)" class="c5"/>
+<use href="#fl" transform="scale(0.0011525)" class="c5"/>
+<use href="#fl" transform="scale(0.0010771)" class="c3"/>
+<use href="#fl" transform="scale(0.0010066)" class="c6"/>
+<use href="#fl" transform="scale(0.00094074)" class="c5"/>
+<use href="#fl" transform="scale(0.00087920)" class="c7"/>
+<use href="#fl" transform="scale(0.00082168)" class="c5"/>
+<use href="#fl" transform="scale(0.00076793)" class="c2"/>
+<use href="#fl" transform="scale(0.00071769)" class="c2"/>
+<use href="#fl" transform="scale(0.00067074)" class="c1"/>
+<use href="#fl" transform="scale(0.00062686)" class="c6"/>
+<use href="#fl" transform="scale(0.00058585)" class="c3"/>
+<use href="#fl" transform="scale(0.00054752)" class="c0"/>
+<use href="#fl" transform="scale(0.00051170)" class="c3"/>
+<use href="#fl" transform="scale(0.00047823)" class="c7"/>
+<use href="#fl" transform="scale(0.00044694)" class="c5"/>
+<use href="#fl" transform="scale(0.00041770)" class="c3"/>
+<use href="#fl" transform="scale(0.00039037)" class="c3"/>
+<use href="#fl" transform="scale(0.00036484)" class="c5"/>
+<use href="#fl" transform="scale(0.00034097)" class="c1"/>
+<use href="#fl" transform="scale(0.00031866)" class="c3"/>
+<use href="#fl" transform="scale(0.00029782)" class="c0"/>
+<use href="#fl" transform="scale(0.00027833)" class="c1"/>
+<use href="#fl" transform="scale(0.00026012)" class="c3"/>
+<use href="#fl" transform="scale(0.00024311)" class="c1"/>
+<use href="#fl" transform="scale(0.00022720)" class="c4"/>
+</g>
+<use href="#floor" transform="scale(1,-1)"/>
+</g>
+</g>
+<ellipse rx="34" ry="46" fill="url(#haze)"/>
+</g>
+<text x="-404" y="185">One year of contributions through a slit scan, a week per slit</text>
+<text x="404" y="185" text-anchor="end">2,433 in the last year</text>
+</svg>
