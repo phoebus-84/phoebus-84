@@ -42,7 +42,7 @@ Since 2022, with Dyne.org and Forkbomb.
 
 **Mobile.** Ionic and Capacitor on iOS and Android, shipped to the stores with fastlane.
 
-**Server.** Go, with PocketBase and Temporal on Credimi. Elixir on Zenflows, Interfacer's GraphQL backend, where I wrote the authorisation. Ruby on Rails on Decidim. Python for model workers and pipelines. A Medusa marketplace. PostgreSQL and MongoDB underneath.
+**Server.** Go, with PocketBase and Temporal on Credimi. Elixir on Zenflows, Interfacer's GraphQL backend, where I wrote the authorisation. Ruby on Rails on Decidim. Python with Django and TurboGears, and for model workers and pipelines. A Medusa marketplace. PostgreSQL and MongoDB underneath.
 
 **Deploy.** Docker, Terraform and Ansible.
 
