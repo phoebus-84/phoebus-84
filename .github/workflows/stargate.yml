@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: stargate
+  cancel-in-progress: false
+
 jobs:
   draw:
     runs-on: ubuntu-latest
@@ -27,5 +31,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stargate.svg
-          git diff --cached --quiet || git commit -m "Redraw the slit scan"
+          git diff --cached --quiet && exit 0
+          git commit -m "Redraw the slit scan"
+          git pull --rebase
           git push
