@@ -38,7 +38,15 @@ Since 2022, with Dyne.org and Forkbomb.
 
 ## What I work with
 
-TypeScript every day, with Svelte and SvelteKit. React and Next.js on Interfacer, Vue before that. Go on the server. Mobile with Ionic and Capacitor, on iOS and Android. Python for model workers and pipelines. C when a video filter needs it, FFmpeg underneath. n8n when a workflow is quicker to draw than to write.
+**Front end.** TypeScript every day, with Svelte and SvelteKit. React and Next.js on Interfacer, Vue before that.
+
+**Mobile.** Ionic and Capacitor on iOS and Android, shipped to the stores with fastlane.
+
+**Server.** Go, with PocketBase and Temporal on Credimi. Elixir on Zenflows, Interfacer's GraphQL backend, where I wrote the authorisation. Ruby on Rails on Decidim. Python for model workers and pipelines. A Medusa marketplace. PostgreSQL and MongoDB underneath.
+
+**Deploy.** Docker, Terraform and Ansible.
+
+**Elsewhere.** C when a video filter needs it, FFmpeg underneath. n8n when a workflow is quicker to draw than to write.
 
 Most of these I did not know when the project that needed them began: React in 2022, Svelte in 2023, mobile in 2024, Go in 2025, C and agent harnesses in 2026. Learning the next one is the part of the job I like most.
 
