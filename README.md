@@ -2,7 +2,7 @@
 
 I used to make documentary films, I studied philosophy, and now I write free software.
 
-I work with [Dyne.org](https://dyne.org) and [Forkbomb](https://forkbomb.eu) on open-source digital identity and open hardware, and I am the author of [Sergio](https://github.com/phoebus-84/video-studio), a studio for making video with AI agents.
+I work with [Dyne.org](https://dyne.org) and [Forkbomb](https://forkbomb.eu) on open-source mobile apps, web interfaces and open hardware, and I am the author of [Sergio](https://github.com/phoebus-84/video-studio), a studio for making video with AI agents.
 
 ## Sergio
 
