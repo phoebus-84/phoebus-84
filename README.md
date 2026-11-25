@@ -48,7 +48,11 @@ Since 2022, with Dyne.org and Forkbomb.
 
 **Elsewhere.** C when a video filter needs it, FFmpeg underneath. n8n when a workflow is quicker to draw than to write.
 
-Most of these I did not know when the project that needed them began: React in 2022, Svelte in 2023, mobile in 2024, Go in 2025, C and agent harnesses in 2026. Learning the next one is the part of the job I like most.
+## How I work
+
+Give me a codebase I have never seen and a bug or a feature, and I will ship it without further instructions. Most of the stacks above I learned that way, on the project that needed them: React in 2022, Svelte in 2023, mobile in 2024, Go in 2025. Learning the next one is the part of the job I like most.
+
+Since late 2025 I work by directing coding agents, several in parallel, and I build the tools for it. Sergio went from its first commit to 834 commits and a release in five months.
 
 I am open to new work, remote, contract or employment. Write to [ennio@dyne.org](mailto:ennio@dyne.org).
 
