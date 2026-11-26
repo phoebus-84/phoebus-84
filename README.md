@@ -2,7 +2,7 @@
 
 I used to make documentary films, I studied philosophy, and now I write free software.
 
-I work with [Dyne.org](https://dyne.org) and [Forkbomb](https://forkbomb.eu) on open-source mobile apps, web interfaces and open hardware, and I am the author of [Sergio](https://github.com/phoebus-84/video-studio), a studio for making video with AI agents.
+I work with [Dyne.org](https://dyne.org) and [Forkbomb](https://forkbomb.eu) on open-source mobile apps, web interfaces and open hardware, and I am the author of [Sergio](https://github.com/phoebus-84/sergio), a studio for making video with AI agents.
 
 ## Sergio
 
@@ -10,7 +10,7 @@ I work with [Dyne.org](https://dyne.org) and [Forkbomb](https://forkbomb.eu) on 
 
 A local, open-source production system for video made with AI agents. The agent (Claude Code or Pi) writes, generates and edits. The studio keeps what the agent forgets: every attempt, what each paid call cost, the licence of each borrowed asset, each decision the operator approved. A fix at second 47 leaves everything else alone.
 
-[Repository](https://github.com/phoebus-84/video-studio) · [Guides and recipes](https://phoebus-84.github.io/video-studio-site/) · [Films made with it](https://phoebus-84.github.io/video-studio-site/examples)
+[Repository](https://github.com/phoebus-84/sergio) · [Guides and recipes](https://phoebus-84.github.io/video-studio-site/) · [Films made with it](https://phoebus-84.github.io/video-studio-site/examples)
 
 <!-- CHANNELS — uncomment when the first channel repos are presentable.
 
