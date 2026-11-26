@@ -55,5 +55,3 @@ Give me a codebase I have never seen and a bug or a feature, and I will ship it 
 Since late 2025 I work by directing coding agents, several in parallel, and I build the tools for it. Sergio went from its first commit to 834 commits and a release in five months.
 
 I am open to new work, remote, contract or employment. Write to [ennio@dyne.org](mailto:ennio@dyne.org).
-
-The picture at the top is this account's contribution calendar put through the same slit scan as `slitscan0r`. [A script](scripts/stargate.mjs) redraws it every night.

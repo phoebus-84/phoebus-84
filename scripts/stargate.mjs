@@ -8,8 +8,14 @@
 //
 //   GH_TOKEN=$(gh auth token) node scripts/stargate.mjs [login] [out.svg]
 
-import { writeFile, mkdir } from "node:fs/promises";
-import { dirname } from "node:path";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+// The pangolin walking down the corridor: "Animal in the Form of a Pangolin",
+// Lega, Art Institute of Chicago (artic.edu/artworks/32871), public domain,
+// cut out of its photograph. Embedded, because a README image loads nothing.
+const PANGOLIN = join(dirname(fileURLToPath(import.meta.url)), "../assets/pangolin.png");
 
 const login = process.argv[2] ?? process.env.GITHUB_REPOSITORY_OWNER ?? "phoebus-84";
 const out = process.argv[3] ?? "assets/stargate.svg";
@@ -105,6 +111,22 @@ for (let i = 0; i < N + VISIBLE; i++) {
 // shows the same weeks as the first, so the loop has no cut.
 const frames = Array.from({ length: N + 1 }, (_, i) => `${f((i / N) * 100)}%{transform:scale(${(K ** i).toPrecision(6)})}`).join("");
 
+// It stands on the floor at a fixed depth, so the walls fly past it and it
+// seems to walk ahead of the camera. Its reflection is as faint as the floor's.
+const pangolinSrc = `data:image/png;base64,${(await readFile(PANGOLIN)).toString("base64")}`;
+const pDepth = 0.2; // the corridor's scale where it stands
+const pFloor = WALL_H * pDepth; // the floor's height there
+const pW = 2 * WALL_X * pDepth * 0.62; // most of the corridor's width
+const pH = pW * (82 / 240);
+const pX = -pW / 2;
+const pY = pFloor - pH * 0.97;
+const pImage = (extra = "") => `<image href="${pangolinSrc}" x="${f(pX)}" y="${f(pY)}" width="${f(pW)}" height="${f(pH)}"${extra}/>`;
+const pangolin = `<g class="pango">
+<ellipse cx="${f(pW * 0.04)}" cy="${f(pFloor)}" rx="${f(pW * 0.46)}" ry="${f(pH * 0.08)}" fill="#000" opacity=".6"/>
+${pImage(` transform="translate(0 ${f(2 * pFloor)}) scale(1 -1)" opacity=".16"`)}
+<g class="step">${pImage()}</g>
+</g>`;
+
 const total = calendar.totalContributions.toLocaleString("en-US");
 const label = `A year of contributions by ${login} as a slit scan: ${total} contributions, one week per slit.`;
 
@@ -116,7 +138,9 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${-W / 2} ${-H / 2
 .now{fill:#fff}
 .fly{animation:fly ${f(N * SECONDS_PER_WEEK)}s linear infinite}
 @keyframes fly{${frames}}
-@media (prefers-reduced-motion:reduce){.fly{animation:none}}
+.step{animation:step .48s ease-in-out infinite alternate}
+@keyframes step{to{transform:translateY(-1.2px)}}
+@media (prefers-reduced-motion:reduce){.fly,.step{animation:none}}
 text{font:500 12.5px Futura,"Century Gothic","Avenir Next","Gill Sans",sans-serif;fill:#a9a294;letter-spacing:.04em}
 </style>
 <defs>
@@ -141,6 +165,7 @@ ${floors.join("\n")}
 </g>
 </g>
 <ellipse rx="34" ry="46" fill="url(#haze)"/>
+${pangolin}
 </g>
 <text x="${-W / 2 + 16}" y="${H / 2 + 23}">One year of contributions through a slit scan, a week per slit</text>
 <text x="${W / 2 - 16}" y="${H / 2 + 23}" text-anchor="end">${total} in the last year</text>
