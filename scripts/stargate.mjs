@@ -12,10 +12,10 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
-// The pangolin walking down the corridor: "Animal in the Form of a Pangolin",
-// Lega, Art Institute of Chicago (artic.edu/artworks/32871), public domain,
-// cut out of its photograph. Embedded, because a README image loads nothing.
-const PANGOLIN = join(dirname(fileURLToPath(import.meta.url)), "../assets/pangolin.png");
+// Someone sitting at the end of the year, watching it fly past: an original
+// figure generated for this profile with Sergio's codex-image package, cut out
+// of its green background. Embedded, because a README image loads nothing.
+const SITTER = join(dirname(fileURLToPath(import.meta.url)), "../assets/sitter.png");
 
 const login = process.argv[2] ?? process.env.GITHUB_REPOSITORY_OWNER ?? "phoebus-84";
 const out = process.argv[3] ?? "assets/stargate.svg";
@@ -111,20 +111,20 @@ for (let i = 0; i < N + VISIBLE; i++) {
 // shows the same weeks as the first, so the loop has no cut.
 const frames = Array.from({ length: N + 1 }, (_, i) => `${f((i / N) * 100)}%{transform:scale(${(K ** i).toPrecision(6)})}`).join("");
 
-// It stands on the floor at a fixed depth, so the walls fly past it and it
-// seems to walk ahead of the camera. Its reflection is as faint as the floor's.
-const pangolinSrc = `data:image/png;base64,${(await readFile(PANGOLIN)).toString("base64")}`;
-const pDepth = 0.2; // the corridor's scale where it stands
-const pFloor = WALL_H * pDepth; // the floor's height there
-const pW = 2 * WALL_X * pDepth * 0.62; // most of the corridor's width
-const pH = pW * (82 / 240);
-const pX = -pW / 2;
-const pY = pFloor - pH * 0.97;
-const pImage = (extra = "") => `<image href="${pangolinSrc}" x="${f(pX)}" y="${f(pY)}" width="${f(pW)}" height="${f(pH)}"${extra}/>`;
-const pangolin = `<g class="pango">
-<ellipse cx="${f(pW * 0.04)}" cy="${f(pFloor)}" rx="${f(pW * 0.46)}" ry="${f(pH * 0.08)}" fill="#000" opacity=".6"/>
-${pImage(` transform="translate(0 ${f(2 * pFloor)}) scale(1 -1)" opacity=".16"`)}
-<g class="step">${pImage()}</g>
+// He sits on the floor at a fixed depth, his head just under the vanishing
+// point, so the walls fly past him. His reflection is as faint as the floor's.
+const sitterSrc = `data:image/png;base64,${(await readFile(SITTER)).toString("base64")}`;
+const sDepth = 0.17; // the corridor's scale where he sits
+const sFloor = WALL_H * sDepth; // the floor's height there
+const sH = 96;
+const sW = sH * (135 / 220);
+const sX = -sW / 2;
+const sY = sFloor - sH;
+const sitterImage = `<image id="sitter" href="${sitterSrc}" x="${f(sX)}" y="${f(sY)}" width="${f(sW)}" height="${f(sH)}"/>`;
+const sitter = `<g>
+<ellipse cy="${f(sFloor - 1)}" rx="${f(sW * 0.55)}" ry="${f(sH * 0.035)}" fill="#000" opacity=".6"/>
+<use href="#sitter" transform="translate(0 ${f(2 * sFloor)}) scale(1 -1)" opacity=".14"/>
+<use href="#sitter"/>
 </g>`;
 
 const total = calendar.totalContributions.toLocaleString("en-US");
@@ -138,9 +138,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${-W / 2} ${-H / 2
 .now{fill:#fff}
 .fly{animation:fly ${f(N * SECONDS_PER_WEEK)}s linear infinite}
 @keyframes fly{${frames}}
-.step{animation:step .48s ease-in-out infinite alternate}
-@keyframes step{to{transform:translateY(-1.2px)}}
-@media (prefers-reduced-motion:reduce){.fly,.step{animation:none}}
+@media (prefers-reduced-motion:reduce){.fly{animation:none}}
 text{font:500 12.5px Futura,"Century Gothic","Avenir Next","Gill Sans",sans-serif;fill:#a9a294;letter-spacing:.04em}
 </style>
 <defs>
@@ -148,6 +146,7 @@ ${rows.join("\n")}
 ${floor}
 ${now}
 <clipPath id="frame"><rect x="${-W / 2}" y="${-H / 2}" width="${W}" height="${H}"/></clipPath>
+${sitterImage}
 <radialGradient id="haze"><stop offset="0" stop-color="#000"/><stop offset=".45" stop-color="#000" stop-opacity=".85"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
 </defs>
 <rect x="${-W / 2}" y="${-H / 2}" width="${W}" height="${H + STRIP}" fill="#000"/>
@@ -165,7 +164,7 @@ ${floors.join("\n")}
 </g>
 </g>
 <ellipse rx="34" ry="46" fill="url(#haze)"/>
-${pangolin}
+${sitter}
 </g>
 <text x="${-W / 2 + 16}" y="${H / 2 + 23}">One year of contributions through a slit scan, a week per slit</text>
 <text x="${W / 2 - 16}" y="${H / 2 + 23}" text-anchor="end">${total} in the last year</text>
